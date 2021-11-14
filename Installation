@@ -2,10 +2,7 @@ Quick installation guide for AMI amazon linux machines
 
 sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
 sudo yum -y install terraform
-                               
-
-
-
+                            
 run this command to check the tf installation status -->> terraform -help or terraform -version 
 
 
