@@ -1,7 +1,7 @@
 Usage: terraform [global options] <subcommand> [args]
 
 
-sample: terraform inti
+sample: terraform init
 
 The available commands for execution are listed below.
 The primary workflow commands are given first, followed by
